@@ -2,7 +2,7 @@ from django.http import HttpResponse, JsonResponse
 
 
 def home(request):
-    return HttpResponse("<h1>Welcome to My Django Application</h1>")
+    return HttpResponse("<h1>Welcome to the Our project</h1>")
 
 
 def hello_world(request):

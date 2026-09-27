@@ -2,7 +2,7 @@ from django.http import HttpResponse, JsonResponse
 
 
 def home(request):
-    return HttpResponse("<h1>Yogesh Bhau image-3</h1>")
+    return HttpResponse("<h1>ye hamari new image hai</h1>")
 
 
 def hello_world(request):
